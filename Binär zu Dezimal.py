@@ -1,5 +1,3 @@
-'''Erstellen Sie ein Python-Programm, das Dualzahlen in das Dezimalsystem umrechnen kann
-, Die letzte Ziffer einer Zahl können Sie löschen, wenn Sie die Zahl durch 10 dividieren und nur das ganzzahlige Ergebnis berücksichtigen.'''
 
 '''************************************
 ****Dualzahlen ins Dezimalsystem******'''
