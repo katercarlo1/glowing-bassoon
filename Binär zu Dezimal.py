@@ -1,17 +1,17 @@
 
 '''************************************
-****Dualzahlen ins Dezimalsystem******'''
+****binär to dual******'''
 
-# Variabeln festlegen
+
 exponent = 0
 wert = 0
 ergebnisse = []
 summe = 0
 
-# Wert einlesen
+
 
 wert = int(input("Bitte geben Sie ihren Dualen Werte ein: "))
-# schleife
+
 
 while wert != 0:
     letztezahl = wert % 10
@@ -20,7 +20,7 @@ while wert != 0:
     wert = wert // 10
     exponent = exponent + 1
 
-# zahlen addieren
+
 for zahlen in ergebnisse:
     summe = summe + zahlen
 print(summe)
